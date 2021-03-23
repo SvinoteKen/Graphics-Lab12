@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\Graphic12\Graphic12\bin\Debug\Graphic12.exe.config
+C:\Users\MSI\source\repos\Graphic12\Graphic12\bin\Debug\Graphic12.exe
+C:\Users\MSI\source\repos\Graphic12\Graphic12\bin\Debug\Graphic12.pdb
+C:\Users\MSI\source\repos\Graphic12\Graphic12\obj\Debug\Graphic12.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Graphic12\Graphic12\obj\Debug\Graphic12.Form1.resources
+C:\Users\MSI\source\repos\Graphic12\Graphic12\obj\Debug\Graphic12.Properties.Resources.resources
+C:\Users\MSI\source\repos\Graphic12\Graphic12\obj\Debug\Graphic12.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Graphic12\Graphic12\obj\Debug\Graphic12.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Graphic12\Graphic12\obj\Debug\Graphic12.exe
+C:\Users\MSI\source\repos\Graphic12\Graphic12\obj\Debug\Graphic12.pdb
